@@ -1,5 +1,6 @@
 // This alias initializes variables into the userdata object for use with other alises and triggers.
 // It can be called manually, but it should be triggered on entrance into Genesis. (Check triggers)
+
 // Pattern: initialize
 
 // Execute the following javascript:
