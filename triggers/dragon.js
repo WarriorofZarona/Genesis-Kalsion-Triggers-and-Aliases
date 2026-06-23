@@ -1,5 +1,5 @@
 // A collection of dragon triggers. 
-// Make note of which triggers use javascripts and which use direct genesis commands.
+// Make note of which triggers use javascript and which use direct genesis commands.
 
 /* Name: Util: Dragon - is Present
 Type: regexp
